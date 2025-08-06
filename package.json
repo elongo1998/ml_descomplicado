@@ -1,0 +1,13 @@
+{
+  "name": "ml-descomplicado-synaptic",
+  "version": "1.0.0",
+  "authon":"António Elongo",
+  "description": "Classificador simples de preferências com Synaptic.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  }
+}
