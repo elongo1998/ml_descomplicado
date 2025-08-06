@@ -11,5 +11,5 @@ npm install synaptic
 
 2. Execute o projeto:
 ```
-node cafe-ou-cha.js
+npm start
 ```
